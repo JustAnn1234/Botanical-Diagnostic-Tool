@@ -49,4 +49,3 @@ After training and testing all five models, the performance was compared to iden
 * **Python 3.10**
 * **Pandas & NumPy** (Data Manipulation)
 * **Scikit-Learn** (Machine Learning)
-* **Matplotlib/Seaborn** (Visualization)
