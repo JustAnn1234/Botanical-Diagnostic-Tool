@@ -47,7 +47,7 @@ After training and testing all five models, the performance was compared to iden
 
 ## Demo
 
-The app is live at (https://digit-recognition-neural-network-hlqdf4clkvrfdgkwhj9ls4.streamlit.app/)
+The app is live at (https://botanical-diagnostic-tool-dqqhbywovfcovbx9h8sbhk.streamlit.app/)
 
 ## Installation
 
