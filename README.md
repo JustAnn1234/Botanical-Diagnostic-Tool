@@ -45,7 +45,65 @@ After training and testing all five models, the performance was compared to iden
 
 ---
 
+## Demo
+
+The app is live at (https://digit-recognition-neural-network-hlqdf4clkvrfdgkwhj9ls4.streamlit.app/)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/digit-recognition-nn.git
+   cd digit-recognition-nn
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+### Running the Web App
+```bash
+streamlit run app.py
+```
+Open your browser to `http://localhost:8501` and upload digit images to test predictions.
+
+## Project Structure
+
+```
+├── app.py                 # Streamlit web application
+├── IRIS data cleaning and model training.ipynb  # Jupyter notebook for model training
+├── logreg_model.pkl        # Trained logistic regression model
+├── requirements.txt       # Python dependencies
+└── README.md             # This file
+└── iris.csv             # The CSV file
+```
+
 ## 🚀 Technologies Used
 * **Python 3.10**
 * **Pandas & NumPy** (Data Manipulation)
 * **Scikit-Learn** (Machine Learning)
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- sklearn digits dataset for training data
+- Streamlit for the web framework
+- Open source community for inspiration</content>
+<parameter name="filePath">c:\Users\hassa\Iris Flower Classification\README.md
+
+
+
